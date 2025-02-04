@@ -1,2 +1,2 @@
-# Operating System Course
- Voting System & Palindrome Checker
+# Computer Architecture
+# Voting System & Palindrome Checker
